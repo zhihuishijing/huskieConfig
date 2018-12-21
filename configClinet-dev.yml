@@ -1,2 +1,2 @@
-server1 :
-  port:   8898
+server:
+  port:   8880
